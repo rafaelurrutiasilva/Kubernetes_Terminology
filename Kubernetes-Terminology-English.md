@@ -1,3 +1,7 @@
+|ID |Terms |Definitions |
+| :-| :- | :- |
+|1 | A | A is the first |
+
 |Terms |Definitions |
 | :- | :- |
 |Admission controller|Code that validates or mutates resources to enforce policy. Runs as part of the API admission chain immediately after authentication and authorization. |
