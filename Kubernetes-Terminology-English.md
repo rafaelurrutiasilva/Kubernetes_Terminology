@@ -1,6 +1,6 @@
 |Terms |Definitions |
 | :- | :- |
-|[Admission controller](#"Admission controller") |Code that validates or mutates resources to enforce policy. Runs as part of the API admission chain immediately after authentication and authorization. |
+|[Admission controller](#Admission_controller) |Code that validates or mutates resources to enforce policy. Runs as part of the API admission chain immediately after authentication and authorization. |
 |[Annotation](#Annotation)|Object metadata often used to expose alpha or beta capabilities, or integrate with 3rd-party systems. |
 |[API](#API)|Application Programming Interface. In the case of Kubernetes, all resources are defined in the API, which is RESTful and exposed via the API server. |
 |[API group](#API group)|A set of related API resources. For example, networking resources are usually located in the networking.k8s.io API group. |
