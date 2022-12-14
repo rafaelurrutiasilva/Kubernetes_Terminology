@@ -9,4 +9,4 @@ Find more at [kubernetes.oi](https://kubernetes.io)
 ## Index
 |File |Context |
 | :- | :- |
-|[Kubernetes-Terminology-English](#blob/main/Kubernetes-Terminology-English.md)| Terminology in English glosary|
+|[Kubernetes-Terminology-English](#/rafaelurrutiasilva/Kubernetes-Terminology/blob/main/Kubernetes-Terminology-English.md)| Terminology in English glosary|
