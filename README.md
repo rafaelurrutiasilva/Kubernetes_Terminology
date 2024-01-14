@@ -61,10 +61,10 @@ It groups containers that make up an application into logical units for easy man
 |[Secret](#Secret)|Like a ConfigMap for sensitive configuration data. A way to store sensitive data outside of a container image, and have it inserted into a container at runtime. |
 |[Service](#Service)|Capital “S”. Kubernetes object for providing network access to apps running in Pods. By placing a Service in front of a set of Pods, the Pods can fail, scale up and down, and be replaced without the network endpoint for accessing them changing. Can integrate with cloud platforms and provision internet-facing load-balancers. |
 |[Service mesh](#Service_mesh)|Infrastructure software that enables features such as encryption of Pod-to-Pod traffic, enhanced network telemetry, and advanced routing. Common service meshes used with Kubernetes include Consul, Istio, Linkerd, and Open Service Mesh. Others also exist. |
-|[Sidecar](#Sidecar)|A special container that runs alongside, and augments, a main app container. Service meshes are often implemented as sidecar containers that are injected into Pods and add network functionality.|
-|[StatefulSet](#StatefulSet)|Controller that deploys and manages stateful Pods. Similar to a Deployment, but for stateful applications. |
-|[Storage Class (SC)](#Storage_Class_(SC))|Way to create different storage tiers/classes on a cluster. You may have an SC called “fast” that creates NVMe-based storage (Non-Volatile Memory Express), and another SC called “medium-three-site” that creates slower storage replicated across three sites. |
-|[Volume](#Volume)|Generic term for persistent storage. |
-|[Worker node](#Worker_node)|A cluster node for running user applications. Sometimes called a “Node” or “worker”. |
-|[YAML](#YAML)|Yet Another Markup Language. The configuration language you normally write Kubernetes configuration files in. It’s a superset of JSON|
+|[Sidecar](#sidecar)|A special container that runs alongside, and augments, a main app container. Service meshes are often implemented as sidecar containers that are injected into Pods and add network functionality.|
+|[StatefulSet](#statefulset)|Controller that deploys and manages stateful Pods. Similar to a Deployment, but for stateful applications. |
+|[Storage Class (SC)](#storage_class_(sc))|Way to create different storage tiers/classes on a cluster. You may have an SC called “fast” that creates NVMe-based storage (Non-Volatile Memory Express), and another SC called “medium-three-site” that creates slower storage replicated across three sites. |
+|[Volume](#volume)|Generic term for persistent storage. |
+|[Worker node](#worker_node)|A cluster node for running user applications. Sometimes called a “Node” or “worker”. |
+|[YAML](#yaml)|Yet Another Markup Language. The configuration language you normally write Kubernetes configuration files in. It’s a superset of JSON|
 
