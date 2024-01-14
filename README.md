@@ -68,7 +68,3 @@ It groups containers that make up an application into logical units for easy man
 |[Worker node](#Worker_node)|A cluster node for running user applications. Sometimes called a “Node” or “worker”. |
 |[YAML](#YAML)|Yet Another Markup Language. The configuration language you normally write Kubernetes configuration files in. It’s a superset of JSON|
 
-## Index
-|File |Context |
-| :- | :- |
-|[Kubernetes-Terminology-English](https://github.com/rafaelurrutiasilva/Kubernetes-Terminology/blob/main/Kubernetes-Terminology-English.md)| Terminology in English glosary|
