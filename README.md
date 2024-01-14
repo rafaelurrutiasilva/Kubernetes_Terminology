@@ -7,13 +7,13 @@ It groups containers that make up an application into logical units for easy man
 
 |Terms |Definitions |
 | :- | :- |
-|[Admission controller](#Admission_controller) |Code that validates or mutates resources to enforce policy. Runs as part of the API admission chain immediately after authentication and authorization. |
-|[Annotation](#Annotation)|Object metadata often used to expose alpha or beta capabilities, or integrate with 3rd-party systems. |
-|[API](#API)|Application Programming Interface. In the case of Kubernetes, all resources are defined in the API, which is RESTful and exposed via the API server. |
-|[API group](#API_group)|A set of related API resources. For example, networking resources are usually located in the networking.k8s.io API group. |
-|[API resource](#API_resource)|All Kubernetes objects, such as Pods, Deployments and Services, are defined in the API as resources. |
-|[API Server](#API_Server)|Exposes the API on a secure port over HTTPS. Runs on the control plane. |
-|[Cloud controller manager](#Cloud_controller_manager)|Control plane service that integrates with underlying cloud platform. For example, when creating a LoadBalancer Service, the cloud controller manager implements the logic to provision one of the underlying cloud’s internet-facing load-balancers. |
+|[Admission controller](#admission_controller) |Code that validates or mutates resources to enforce policy. Runs as part of the API admission chain immediately after authentication and authorization. |
+|[Annotation](#annotation)|Object metadata often used to expose alpha or beta capabilities, or integrate with 3rd-party systems. |
+|[API](#aPI)|Application Programming Interface. In the case of Kubernetes, all resources are defined in the API, which is RESTful and exposed via the API server. |
+|[API group](#api_group)|A set of related API resources. For example, networking resources are usually located in the networking.k8s.io API group. |
+|[API resource](#api_resource)|All Kubernetes objects, such as Pods, Deployments and Services, are defined in the API as resources. |
+|[API Server](#api_server)|Exposes the API on a secure port over HTTPS. Runs on the control plane. |
+|[Cloud controller manager](#cloud_controller_manager)|Control plane service that integrates with underlying cloud platform. For example, when creating a LoadBalancer Service, the cloud controller manager implements the logic to provision one of the underlying cloud’s internet-facing load-balancers. |
 |[Cloud native](#Cloud_native)|A loaded term and means different things to different people. Cloud native is a way of designing, building, and working with modern applications and infrastructure. I personally consider an application to be cloud native if it can self-heal, scale on-demand, perform rolling updates, and possibly rollbacks. |
 |[ConfigMap](#ConfigMap)|Kubernetes object used to hold non-sensitive configuration data. A great way to add custom configuration data to a generic container, at runtime, without editing the image. |
 |[Container](#Container)|Lightweight environment for running modern apps. Each container is a virtual operating system with its own process tree, filesystem, shared memory, and more. One container runs one application process. |
