@@ -1,7 +1,7 @@
 [🇬🇧 English](README.md) / [🇸🇪 Svenska](README_se.md) 
 # Kubernetes Terminology
 Denna ordlista definierar några av de vanligaste termerna som används i Kubernetes-världen.
-<img width="300" alt="K8sLogo" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" align=left>
+<img width="200" alt="K8sLogo" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" align=left>
 <br>
 <br>
 
