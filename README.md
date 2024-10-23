@@ -1,3 +1,5 @@
+[🇬🇧 English](README.md) / [🇸🇪 Svenska](README_se.md) 
+
 # Kubernetes Terminology
 This glossary defines some of the most common terms used in the Kubernetes world.
 
