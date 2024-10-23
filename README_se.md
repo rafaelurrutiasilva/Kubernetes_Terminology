@@ -1,8 +1,19 @@
 [🇬🇧 English](README.md) / [🇸🇪 Svenska](README_se.md) 
 # Kubernetes Terminology
 Denna ordlista definierar några av de vanligaste termerna som används i Kubernetes-världen.
+<img width="300" alt="K8sLogo" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" align=left>
+<br>
+<br>
+
 
 [Kubernetes](https://kubernetes.io), även känt som K8s, är ett open-source-system för att automatisera distribution, skalning och hantering av containeriserade applikationer. Det grupperar containrar som utgör en applikation i logiska enheter för enkel hantering och upptäckt. Kubernetes bygger på 15 års erfarenhet av att köra produktionsarbetsbelastningar hos Google, kombinerat med de bästa idéerna och metoderna från gemenskapen (community).
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 | Termer | Definitioner |
 | :- | :- |
