@@ -1,7 +1,7 @@
 [🇬🇧 English](README.md) / [🇸🇪 Svenska](README_se.md) 
 
 # Kubernetes Terminology
-This glossary defines some of the most common terms used in the Kubernetes world.
+This glossary defines some of the most common terms used in the Kubernetes world...
 <img width="200" alt="K8sLogo" src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" align=left>
 <br>
 <br>
